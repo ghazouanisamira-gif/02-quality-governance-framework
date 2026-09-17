@@ -1,61 +1,141 @@
-# Anonymized Multi-Country Quality Governance Case Study
+# EMEA Quality Governance & Multi-Provider Transformation — Anonymized Case Study
 
 ## Context
 
-A multi-country operational environment required a more consistent quality approach across several sites and external service providers.
+Between **2020 and 2023**, a major EMEA account required a structured quality and governance model covering multiple operational providers and five European markets: **France, Italy, Spain, Germany and the United Kingdom**.
 
-The challenge was to create common quality governance while allowing local operational teams to maintain day-to-day ownership.
+The mandate required building and piloting the quality system from scratch across a complex ecosystem combining internal teams, external providers, operations, Quality, Training, technology stakeholders and business/project stakeholders.
 
-## Objectives
+## Challenge
 
-- Establish a common quality framework
-- Align quality standards across operational environments
-- Improve visibility of performance
-- Clarify governance and accountability
-- Create a structured improvement cycle
+The transformation had to solve several governance challenges simultaneously:
 
-## Approach
+- Align quality expectations across markets and providers.
+- Establish a common monitoring and reporting logic.
+- Coordinate stakeholders without relying only on direct hierarchical authority.
+- Create consistent quality practices across voice, email and chat.
+- Turn quality findings into targeted corrective training and improvement actions.
+- Support technology deployment while validating operational usability and data consistency.
 
-**Diagnose → Standardize → Deploy → Monitor → Analyze → Improve**
+## Role & Operating Model
+
+The project included a dedicated **Quality & Training structure covering audit and training activities, with 12 collaborators and dedicated management**, supported by an allocated budget.
+
+The coordination model was cross-functional rather than limited to one department.
+
+**Business / Account Stakeholders ↔ Operations ↔ Quality ↔ Training ↔ External Providers ↔ Internal Teams ↔ Technology Stakeholders**
+
+## Transformation Approach
 
 ### 1. Diagnose
 
-Reviewed existing quality practices, reporting routines, standards and operational needs.
+Existing quality practices, reporting, monitoring methods and stakeholder interfaces were reviewed.
 
-### 2. Standardize
+### 2. Design the Governance Model
 
-Defined common principles, monitoring logic, reporting expectations and governance routines.
+A common operating framework was structured around:
+- quality standards
+- audit and sampling logic
+- performance reporting
+- calibration
+- corrective action management
+- training feedback loops
+- governance reviews
 
-### 3. Deploy
+### 3. Deploy Across Markets
 
-Coordinated implementation across multiple operational environments and stakeholders.
+The framework was deployed across five markets and several provider environments while preserving the coordination required for local operations.
 
-### 4. Monitor
+### 4. Monitor & Calibrate
 
-Established KPI monitoring, quality reviews and action tracking.
+Quality monitoring covered **voice, email and chat**.
 
-### 5. Analyze
+Real-time feedback and targeted corrective training were used to address identified gaps, including defined unacceptable situations.
 
-Used performance data, findings and recurring issues to identify improvement priorities.
+### 5. Connect Quality to Customer Experience
 
-### 6. Improve
+Customer Satisfaction trends were systematically analyzed.
 
-Implemented corrective actions and continuous improvement routines.
+Root causes were identified, findings were shared cross-functionally and improvement actions were followed through governance routines.
 
-## Governance Model
+### 6. Enable Capability Development
 
-**Operational Teams → Quality Coordination → Governance Review → Management Decisions → Improvement Actions**
+Two e-learning modules were developed around a quality-monitoring platform:
+- a multilingual gamified training library using quizzes and rankings
+- a personalized Customer Satisfaction analysis dashboard by agent and platform
 
-## Skills Demonstrated
+These mechanisms helped connect data, learning and performance improvement.
 
-- Quality governance
-- Cross-functional coordination
-- Multi-site project coordination
-- Stakeholder management
-- KPI management
-- Risk-based prioritization
+### 7. Coordinate Technology Deployment
+
+The project involved coordination with technology stakeholders around tools including quality-monitoring, CRM/contact-center and BI solutions.
+
+The coordination model included:
+- agile testing cycles
+- regular test points
+- dysfunction and data-inconsistency reporting
+- feedback-driven adjustments to tracking sheets and reporting
+
+## Governance Cycle
+
+**Standardize → Deploy → Monitor → Analyze → Train / Correct → Review → Improve**
+
+## Results
+
+Selected anonymized outcomes from the transformation:
+
+| Indicator | Evolution |
+|---|---:|
+| Quality Score | **40% → 85%** |
+| Quality errors / non-conformities | **−20%** |
+| Customer Satisfaction | **+15 pts** |
+| Onboarding completion | **+40%** |
+| Inter-rater consistency | **>90%** |
+
+The results demonstrate the connection between **governance, quality monitoring, capability development and continuous improvement**.
+
+## PMO & Governance Perspective
+
+This case demonstrates experience in:
+
+- Cross-functional project coordination
+- Multi-country governance
+- Multi-provider stakeholder management
+- Quality framework design
+- Operational deployment
+- KPI and performance management
+- Training and change enablement
+- Technology coordination
+- Risk and issue escalation
 - Continuous improvement
+
+## Lessons Learned
+
+### 1. Governance must be designed for the ecosystem
+
+In a multi-provider environment, quality cannot depend on one team's authority. The model needs clear interfaces, responsibilities and escalation mechanisms.
+
+### 2. Standardization and local ownership must coexist
+
+A common framework creates consistency, while local operational ownership supports practical adoption.
+
+### 3. Data becomes valuable when connected to action
+
+Quality scores and Customer Satisfaction indicators only create value when they trigger analysis, coaching, corrective action or governance decisions.
+
+### 4. Technology deployment is also a change-management activity
+
+Tools require testing, stakeholder coordination, feedback and iterative adjustment—not only technical installation.
 
 ## Confidentiality
 
-This case study is intentionally anonymized. Client names, locations, proprietary documents, financial information and sensitive operational data are excluded.
+This case study intentionally excludes:
+- client identity
+- provider contractual details
+- confidential budgets
+- proprietary procedures
+- individual performance data
+- sensitive operational reports
+- internal tool configurations
+
+The figures presented are selected portfolio-level outcomes from the anonymized case and are not a reproduction of internal reporting.
