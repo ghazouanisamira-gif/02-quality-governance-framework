@@ -1,34 +1,89 @@
 # Quality Governance Model
 
-## 1. Quality Strategy
+## Purpose
 
-Define quality objectives, customer expectations, business priorities and applicable standards.
+A quality governance model defines how quality expectations become measurable standards, how evidence is reviewed, who owns decisions and how corrective actions are closed.
 
-## 2. Standards
+## 1. Set Direction
 
-Translate expectations into clear criteria, procedures, controls and measurable requirements.
+Define:
+- quality objectives
+- customer expectations
+- applicable requirements
+- risk priorities
+- governance principles
 
-## 3. Monitoring
+**Output:** quality strategy and priorities.
 
-Establish regular quality checks, audits, sampling and performance monitoring.
+## 2. Standardize
 
-## 4. Analysis
+Translate expectations into:
+- quality criteria
+- monitoring rules
+- sampling logic
+- assessment guidelines
+- reporting requirements
 
-Use data and root cause analysis to identify recurring issues, process weaknesses and improvement opportunities.
+**Output:** common quality framework.
 
-## 5. Corrective Actions
+## 3. Monitor
 
-Define actions with clear owners, deadlines, priorities and verification of effectiveness.
+Establish:
+- quality checks
+- audits
+- sampling
+- calibration
+- KPI monitoring
+- feedback loops
 
-## 6. Continuous Improvement
+**Output:** reliable evidence.
 
-Use lessons learned, trend analysis and performance reviews to sustain improvements.
+## 4. Analyze
+
+Use:
+- trend analysis
+- Pareto analysis
+- root cause analysis
+- cross-functional review
+- risk prioritization
+
+**Output:** evidence-based improvement priorities.
+
+## 5. Act
+
+Corrective actions should include:
+- problem statement
+- root cause
+- action
+- owner
+- deadline
+- expected result
+- effectiveness check
+
+**Output:** controlled improvement plan.
+
+## 6. Review & Sustain
+
+Management reviews:
+- KPI trends
+- recurring issues
+- action closure
+- emerging risks
+- capability gaps
+- improvement results
+
+The cycle then restarts.
+
+## Governance Loop
+
+**Strategy → Standardize → Monitor → Analyze → Decide → Act → Verify → Sustain**
 
 ## Governance Principles
 
 - Clear accountability
 - Evidence-based decisions
 - Risk-based prioritization
+- Cross-functional coordination
 - Transparent reporting
 - Closed-loop action management
 - Continuous improvement
