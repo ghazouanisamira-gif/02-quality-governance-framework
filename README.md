@@ -1,56 +1,53 @@
 # Quality & Governance Framework
 
-A practical framework for designing, deploying and monitoring quality governance within complex operational environments.
+A practical quality governance portfolio combining reusable management frameworks with an anonymized **multi-country, multi-provider transformation case study**.
 
-## Purpose
+## What This Repository Demonstrates
 
-This repository demonstrates how quality governance can be structured across teams, processes, stakeholders and operational sites.
+How to move from fragmented quality practices toward a governed quality system connecting:
 
-## Framework
+**Standards → Monitoring → Evidence → Analysis → Corrective Action → Management Review → Continuous Improvement**
 
-**Quality Strategy → Standards → Monitoring → Analysis → Corrective Actions → Continuous Improvement**
+## Core Capabilities
 
-## Key Components
-
-- Quality framework
-- Quality standards
-- Audit methodology
-- Quality monitoring
-- KPI framework
-- Non-conformity management
+- Quality governance design
+- Multi-site / multi-provider coordination
+- Quality standards and monitoring
+- Audit planning
+- KPI design and performance review
 - Root cause analysis
-- Corrective and preventive actions
-- Governance routines
-- Performance reviews
+- Corrective action management
+- Stakeholder coordination
+- Training and capability development
+- Continuous improvement
 
-## Quality KPIs
+## Quality Management Cycle
 
-Examples include:
+**Define → Standardize → Monitor → Analyze → Act → Verify → Sustain**
 
-- Quality Score
-- Customer Satisfaction
-- Compliance Rate
-- Non-Conformity Rate
-- Audit Coverage
-- Corrective Action Closure
-- Training Completion
+The framework deliberately links each quality activity to an owner, evidence source, review rhythm and management decision.
 
-## Governance
+## Case Study
 
-The framework covers:
+The repository includes an anonymized case based on a **2020–2023 EMEA quality governance mandate** covering five markets and multiple operational providers.
 
-- Roles and responsibilities
-- Reporting structure
-- Review cadence
-- Escalation mechanisms
-- Action tracking
-- Stakeholder communication
+The case demonstrates:
+- building a quality governance model from scratch
+- coordinating internal teams, external providers and business stakeholders
+- establishing common quality standards across markets
+- deploying and improving quality-monitoring practices
+- coordinating technology and operational stakeholders
+- using quality data to drive corrective actions and capability development
 
-## Case Study Context
+### Selected anonymized outcomes
 
-The repository also includes an anonymized case study inspired by a multi-country quality governance initiative involving several operational environments and external service providers.
+- Quality Score: **40% → 85%**
+- Customer Satisfaction: **+15 percentage points**
+- Quality errors / non-conformities: **−20%**
+- Onboarding completion: **+40%**
+- Inter-rater consistency: **>90%**
 
-No client names, confidential documents or sensitive operational data are disclosed.
+These figures are presented only at portfolio level; detailed client data, internal reports and proprietary documentation are excluded.
 
 ## Repository Structure
 
@@ -67,15 +64,13 @@ No client names, confidential documents or sensitive operational data are disclo
 
 ## Professional Approach
 
-**Define → Standardize → Monitor → Analyze → Improve → Sustain**
+The repository combines **Quality Management + PMO + Governance + Operational Excellence**.
 
-The objective is to connect quality requirements with measurable performance, clear accountability and continuous improvement.
-
-## Author
-
-**Samira Ghazouani**  
-PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
+The objective is not only to detect quality gaps, but to create a closed management loop in which findings become decisions, actions and measurable improvement.
 
 ## Confidentiality
 
-All examples are generic or anonymized and are intended to demonstrate methodology rather than disclose proprietary information.
+No client names, provider-specific sensitive data, internal financial information, individual performance records or proprietary documentation are disclosed.
+
+**Author:** Samira Ghazouani  
+PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
