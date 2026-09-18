@@ -2,7 +2,7 @@
 
 A practical quality governance portfolio combining reusable management frameworks with anonymized transformation evidence.
 
-**Project Period:** 2020–2026
+**Project Period:** 2020–2026  
 **Portfolio Documentation:** 2026
 
 ## What This Repository Demonstrates
@@ -57,6 +57,12 @@ This evidence demonstrates:
 **Deploy → Validate → Monitor → Escalate → Improve**
 
 The detailed project-level evidence is kept separate from the anonymized client AI transformation case study in order to avoid mixing distinct experiences.
+
+### Related AI Transformation Case Study
+
+A separate **2024–2026 AI Transformation & Governance** case study covers a broader operational transformation involving AI governance, knowledge-base transformation, phased deployment, quality, CSAT, analytics, human oversight and change management.
+
+→ [View the AI Transformation & Governance case study](../09-ai-transformation-governance)
 
 ## Case Study
 
