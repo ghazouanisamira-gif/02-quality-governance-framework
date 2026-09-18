@@ -66,25 +66,9 @@ A separate **2024–2026 AI Transformation & Governance** case study covers a br
 
 ## Case Study
 
-The repository includes an anonymized case based on a **2020–2023 EMEA quality governance mandate** covering five markets and multiple operational providers.
+The repository includes an anonymized **2020–2023 EMEA quality governance mandate** as supporting evidence for the framework. The detailed project case, governance architecture and documented outcomes are maintained separately in [EMEA Quality Governance & Multi-Provider Transformation](../07-emea-quality-governance-transformation).
 
-The case demonstrates:
-- building a quality governance model from scratch
-- coordinating internal teams, external providers and business stakeholders
-- establishing common quality standards across markets
-- deploying and improving quality-monitoring practices
-- coordinating technology and operational stakeholders
-- using quality data to drive corrective actions and capability development
-
-### Selected anonymized outcomes
-
-- Quality Score: **40% → 85%**
-- Customer Satisfaction: **+15 percentage points**
-- Quality errors / non-conformities: **−20%**
-- Onboarding completion: **+40%**
-- Inter-rater consistency: **>90%**
-
-These figures are presented only at portfolio level; detailed client data, internal reports and proprietary documentation are excluded.
+The framework is intentionally transversal: it extracts reusable quality-management practices from applied experience without duplicating the full project narrative.
 
 ## Repository Structure
 
