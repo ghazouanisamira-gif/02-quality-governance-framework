@@ -1,6 +1,6 @@
 # Quality & Governance Framework
 
-A practical quality governance portfolio combining reusable management frameworks with an anonymized **multi-country, multi-provider transformation case study**.
+A practical quality governance portfolio combining reusable management frameworks with anonymized transformation evidence.
 
 **Project Period:** 2020–2026
 **Portfolio Documentation:** 2026
@@ -23,6 +23,7 @@ How to move from fragmented quality practices toward a governed quality system c
 - Stakeholder coordination
 - Training and capability development
 - Continuous improvement
+- AI-enabled operational quality and human oversight
 
 ## Quality Management Cycle
 
@@ -32,25 +33,30 @@ The framework deliberately links each quality activity to an owner, evidence sou
 
 ## Data Protection & AI Governance
 
-The quality and governance approach also included a direct interface with the **Data Protection Officer (DPO)** on data-protection requirements.
+The professional experience represented in this repository also includes a direct interface with data-protection requirements and AI-enabled operational quality.
 
-The control model integrated specific data-compliance standards into quality practices, with:
+### Data Protection
+
+The control model included:
 
 - defined data-protection controls;
 - compliance requirements embedded in quality monitoring;
-- DPO validation of the control approach;
+- validation of the control approach with the relevant data-protection function;
 - escalation mechanisms when a deviation or potential compliance issue was identified.
 
-### AI Deployment & Human Oversight
+### AI Deployment — Lead Generation
 
-AI-enabled solutions were deployed across multiple professional projects, with a primary application in **lead-generation activities**.
+A separate anonymized professional experience involved the deployment of AI-enabled solutions across **100% of the relevant lead-generation projects**.
 
-The approach treated AI as an operational capability requiring human oversight, quality controls and performance monitoring rather than as a standalone automation layer.
+The approach treated AI as an operational capability requiring human oversight, quality controls and performance monitoring.
 
 **AI–human alignment: >85%**
 
-The portfolio evidence focuses on the governance principle: **Deploy → Monitor → Validate → Escalate → Improve**, while confidential implementation details are excluded.
+This evidence demonstrates:
 
+**Deploy → Validate → Monitor → Escalate → Improve**
+
+The detailed project-level evidence is kept separate from the anonymized client AI transformation case study in order to avoid mixing distinct experiences.
 
 ## Case Study
 
@@ -85,6 +91,7 @@ These figures are presented only at portfolio level; detailed client data, inter
 ├── corrective-actions/
 ├── governance/
 └── case-study/
+    └── ai-deployment-evidence.md
 ```
 
 ## Professional Approach
@@ -95,7 +102,7 @@ The objective is not only to detect quality gaps, but to create a closed managem
 
 ## Confidentiality
 
-No client names, provider-specific sensitive data, internal financial information, individual performance records or proprietary documentation are disclosed.
+No company or client names, provider-specific sensitive data, internal financial information, individual performance records, proprietary documentation or internal URLs are disclosed.
 
 **Author:** Samira Ghazouani  
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
