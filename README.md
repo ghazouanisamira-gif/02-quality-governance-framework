@@ -2,6 +2,9 @@
 
 A practical quality governance portfolio combining reusable management frameworks with an anonymized **multi-country, multi-provider transformation case study**.
 
+**Project Period:** 2020–2023  
+**Portfolio Documentation:** 2026
+
 ## What This Repository Demonstrates
 
 How to move from fragmented quality practices toward a governed quality system connecting:
