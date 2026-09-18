@@ -112,3 +112,18 @@ No company or client names, provider-specific sensitive data, internal financial
 
 **Author:** Samira Ghazouani  
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
+
+
+## People, Coaching & Capability Development
+
+Quality governance included a strong people-development dimension: translating quality findings and operational observations into targeted coaching, corrective training, calibration, feedback and capability development.
+
+The approach connected:
+
+**Quality Signal → Assessment → Root Cause → Development Need → Coaching / Training → Application → Feedback → Reassessment**
+
+Relevant practices included competency/level assessment, training-needs analysis, coaching records, debrief sheets, calibration, knowledge checks, learning modules, micro-learning / MOOC-style content, job aids, SOPs, team workshops, team-building activities and follow-up plans.
+
+The principle was to distinguish a true capability gap from a process, tool, workload or governance problem before prescribing training.
+
+Manager enablement also included onboarding support, role clarification, management routines, practical checklists / To-Do Lists, KPI review routines and coaching toward autonomy.
