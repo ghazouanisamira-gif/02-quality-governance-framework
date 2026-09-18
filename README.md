@@ -30,6 +30,28 @@ How to move from fragmented quality practices toward a governed quality system c
 
 The framework deliberately links each quality activity to an owner, evidence source, review rhythm and management decision.
 
+## Data Protection & AI Governance
+
+The quality and governance approach also included a direct interface with the **Data Protection Officer (DPO)** on data-protection requirements.
+
+The control model integrated specific data-compliance standards into quality practices, with:
+
+- defined data-protection controls;
+- compliance requirements embedded in quality monitoring;
+- DPO validation of the control approach;
+- escalation mechanisms when a deviation or potential compliance issue was identified.
+
+### AI Deployment & Human Oversight
+
+AI-enabled solutions were deployed across multiple professional projects, with a primary application in **lead-generation activities**.
+
+The approach treated AI as an operational capability requiring human oversight, quality controls and performance monitoring rather than as a standalone automation layer.
+
+**AI–human alignment: >85%**
+
+The portfolio evidence focuses on the governance principle: **Deploy → Monitor → Validate → Escalate → Improve**, while confidential implementation details are excluded.
+
+
 ## Case Study
 
 The repository includes an anonymized case based on a **2020–2023 EMEA quality governance mandate** covering five markets and multiple operational providers.
