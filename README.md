@@ -46,17 +46,9 @@ The control model included:
 
 ### AI Deployment — Lead Generation
 
-A separate anonymized professional experience involved the deployment of AI-enabled solutions across **100% of the relevant lead-generation projects**.
+A separate anonymized professional experience involved the deployment of AI-enabled solutions across **100% of the relevant lead-generation projects**, with **>85% AI–human alignment** based on human validation.
 
-The approach treated AI as an operational capability requiring human oversight, quality controls and performance monitoring.
-
-**AI–human alignment: >85%**
-
-This evidence demonstrates:
-
-**Deploy → Validate → Monitor → Escalate → Improve**
-
-The detailed project-level evidence is kept separate from the anonymized client AI transformation case study in order to avoid mixing distinct experiences.
+The detailed evidence is intentionally kept distinct from the broader 2024–2026 AI transformation case in [AI Transformation & Governance](../09-ai-transformation-governance).
 
 ### Related AI Transformation Case Study
 
