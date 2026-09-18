@@ -2,7 +2,7 @@
 
 A practical quality governance portfolio combining reusable management frameworks with an anonymized **multi-country, multi-provider transformation case study**.
 
-**Project Period:** 2020–2026  
+**Project Period:** 2020–2026
 **Portfolio Documentation:** 2026
 
 ## What This Repository Demonstrates
