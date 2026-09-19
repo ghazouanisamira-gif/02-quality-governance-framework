@@ -48,17 +48,17 @@ The control model included:
 
 A separate anonymized professional experience involved the deployment of AI-enabled solutions across **100% of the relevant lead-generation projects**, with **>85% AI–human alignment** based on human validation.
 
-The detailed evidence is intentionally kept distinct from the broader 2024–2026 AI transformation case in [AI Transformation & Governance](../09-ai-transformation-governance).
+The detailed evidence is intentionally kept distinct from the broader 2024–2026 AI transformation case in [AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance).
 
 ### Related AI Transformation Case Study
 
 A separate **2024–2026 AI Transformation & Governance** case study covers a broader operational transformation involving AI governance, knowledge-base transformation, phased deployment, quality, CSAT, analytics, human oversight and change management.
 
-→ [View the AI Transformation & Governance case study](../09-ai-transformation-governance)
+→ [View the AI Transformation & Governance case study](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance)
 
 ## Case Study
 
-The repository includes an anonymized **2020–2023 EMEA quality governance mandate** as supporting evidence for the framework. The detailed project case, governance architecture and documented outcomes are maintained separately in [EMEA Quality Governance & Multi-Provider Transformation](../07-emea-quality-governance-transformation).
+The repository includes an anonymized **2020–2023 EMEA quality governance mandate** as supporting evidence for the framework. The detailed project case, governance architecture and documented outcomes are maintained separately in [EMEA Quality Governance & Multi-Provider Transformation](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation).
 
 The framework is intentionally transversal: it extracts reusable quality-management practices from applied experience without duplicating the full project narrative.
 
