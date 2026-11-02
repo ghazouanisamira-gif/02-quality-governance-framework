@@ -19,7 +19,7 @@ The transformation had to solve several governance challenges simultaneously:
 
 ## Role & Operating Model
 
-The project included a dedicated **Quality & Training structure covering audit and training activities**: **12 quality and training officers (CQF) plus a manager** on the EMEA mandate, with about 5 on other internal projects and up to 15+ depending on each project forecast, supported by an allocated budget.
+The project included a dedicated **Quality & Training structure covering audit and training activities**: **12 quality and training officers (CQF) plus a manager**, within a pool of about 15 officers depending on forecast (cross-trained on all projects, reassigned according to forecast), supported by an allocated budget.
 
 The coordination model was cross-functional rather than limited to one department.
 
